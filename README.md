@@ -1,3 +1,9 @@
+### How to use 
+```
+  npm i 
+  npm run dev
+```
+
 ### Note for day 1 
 - install postcss
 - install tailwind and autoprefixer
