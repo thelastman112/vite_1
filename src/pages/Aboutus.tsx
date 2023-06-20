@@ -1,8 +1,10 @@
+import NavA from "../components/NavA"
+
 const Aboutus = () => {
   return (
     <>
       <div>Aboutus</div>
-      <p></p>
+      <NavA where="/">Home</NavA>
     </>
   )
 }
